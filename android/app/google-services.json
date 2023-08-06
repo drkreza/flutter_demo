@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "570427698311",
+    "project_id": "test-flutter-reza",
+    "storage_bucket": "test-flutter-reza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570427698311:android:d618fd8ed4dd93353d5c22",
+        "android_client_info": {
+          "package_name": "com.example.first_project_vscode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570427698311-70tdrurojus0dquva13oqiul9cfaf2gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOQO7XzF1jH4hCo-NWn8GtslP2oKqkaxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570427698311-70tdrurojus0dquva13oqiul9cfaf2gv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570427698311-ik24111139r844glb7chiu81l3gf35te.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstProjectVscode"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570427698311:android:e3bd2775afeae5343d5c22",
+        "android_client_info": {
+          "package_name": "com.example.reza.first_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570427698311-70tdrurojus0dquva13oqiul9cfaf2gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOQO7XzF1jH4hCo-NWn8GtslP2oKqkaxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570427698311-70tdrurojus0dquva13oqiul9cfaf2gv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570427698311-ik24111139r844glb7chiu81l3gf35te.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstProjectVscode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
